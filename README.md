@@ -1,7 +1,7 @@
 # FLiNOS
 
 <p align="center">
-  <img src="img/flinos_black_denim_on_white.svg" alt="FLiNOS — Friendly Linux Network Operating System" width="640">
+  <img src="img/flinos_denim_dark_on_black.svg" alt="FLiNOS — Friendly Linux Network Operating System" width="640">
 </p>
 
 > **Status: in development.** FLiNOS is not yet ready for production use.
