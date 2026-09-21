@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="280" viewBox="-40 -8 360 288">
+<title>FLiNOS emblem</title>
+<rect x="-40" y="-8" width="360" height="288" fill="#F5F7FA"/>
+<g transform="translate(40 12) scale(.85)"><g fill="none" stroke="#05070A" stroke-width="8" stroke-linejoin="miter" stroke-linecap="round">
+<path d="M82 22H168L192 66H242L280 132L242 198H192L168 242H82L58 198H8L-30 132L8 66H58Z"/>
+<path d="M95 116L122 132L95 148"/>
+<path d="M132 154H166"/>
+</g></g>
+</svg>

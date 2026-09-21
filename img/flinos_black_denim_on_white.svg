@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="520" viewBox="0 0 1800 520">
+<title>FLiNOS — Friendly Linux Network Operating System</title>
+<rect width="1800" height="520" fill="#F5F7FA"/>
+<g transform="translate(145 105) scale(.95)"><g fill="none" stroke="#05070A" stroke-width="8" stroke-linejoin="miter" stroke-linecap="round">
+<path d="M82 22H168L192 66H242L280 132L242 198H192L168 242H82L58 198H8L-30 132L8 66H58Z"/>
+<path d="M95 116L122 132L95 148"/>
+<path d="M132 154H166"/>
+</g></g>
+<text x="520" y="300" fill="#05070A"
+font-family="Rockwell,'Roboto Slab','DejaVu Serif',Georgia,serif"
+font-size="170" font-weight="700" letter-spacing="3">FLiNOS</text>
+
+</svg>
