@@ -32,9 +32,3 @@ Future releases may include the following generated artifacts:
 - `flinos-<release>.qcow2` — virtual appliance image.
 - `flinos-<release>.json` — release metadata.
 - `flinos-<release>.version` — release version information.
-
-## Branding assets
-
-The `img/` directory contains editable SVG wordmarks and icons. The branding
-palette is denim (`#315A91`), dark denim (`#1F3F6B`), near black (`#05070A`),
-and white (`#F5F7FA`).
