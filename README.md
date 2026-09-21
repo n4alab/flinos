@@ -1,7 +1,7 @@
 # FLiNOS
 
 <p align="center">
-  <img src="img/flinos_black_denim_on_white.svg" alt="FLiNOS — Friendly Linux Network Operating System" width="640">
+  <img src="img/flinos_denim_dark_on_black.svg" alt="FLiNOS — Friendly Linux Network Operating System" width="640">
 </p>
 
 > **Status: in development.** FLiNOS is not yet ready for production use.
@@ -37,5 +37,4 @@ Future releases may include the following generated artifacts:
 
 The `img/` directory contains editable SVG wordmarks and icons. The branding
 palette is denim (`#315A91`), dark denim (`#1F3F6B`), near black (`#05070A`),
-and white (`#F5F7FA`). The SVG set is also provided as
-`flinos_svg_set.zip`.
+and white (`#F5F7FA`).
