@@ -29,6 +29,25 @@ contain FLiNOS source code.
 
 Future releases may include the following generated artifacts:
 
-- `flinos-<release>.qcow2` — virtual appliance image.
-- `flinos-<release>.json` — release metadata.
+- `flinos-<release>.qcow2` — UEFI virtual appliance image.
+- `flinos-<release>.json` — release metadata and artifact inventory.
 - `flinos-<release>.version` — release version information.
+- `flinos-<release>.manifest` and `.sig` — signed release manifest.
+- `flinos-<release>-OVMF_CODE.fd` — immutable UEFI Secure Boot firmware.
+- `flinos-<release>-OVMF_VARS.fd` — per-VM UEFI NVRAM template.
+
+## Documentation
+
+- [Create a virtual machine](docs/virtual-machine.md) — planned production
+  UEFI/Secure Boot deployment profile and its requirements.
+
+## dNLab compatibility
+
+FLiNOS is intended to run as a virtual device in
+[dNLab](https://github.com/n4alab/dnlab), which orchestrates Containerlab on
+single or multiple worker nodes. dNLab deployment, image import, topology
+creation, and orchestration are documented by dNLab itself.
+
+This is a compatibility target, not a statement that a FLiNOS release has been
+tested or certified with dNLab. A validated release will identify its tested
+version and runtime requirements.
